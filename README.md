@@ -1,2 +1,3 @@
 # LearningRepo
-Creating this Repository to learn Github
+Creating this Repository to learn Github.
+Author-Shrey Pandey
